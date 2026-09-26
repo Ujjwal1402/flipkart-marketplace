@@ -1,0 +1,8 @@
+{
+  "name": "flipkart-marketplace-backend",
+  "version": "1.0.0",
+  "description": "Enterprise Express.js backend for Flipkart Marketplace",
+  "main": "src/app.ts",
+  "types": "src/app.ts",
+  "private": true
+}
